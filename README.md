@@ -1,7 +1,6 @@
 Hi, I’m @agrimsaharia<br>
-I’m interested in software developement and algorithms<br>
-I’m currently pursuing my B.tech degree in Electrical Engineering from IIT_Kanpur<br>
-I’m looking to collaborate on developing and researching on algorithms.
+I’m interested in computer networks, software developement and algorithms<br>
+I have completed my B.tech degree in Electrical Engineering from IIT_Kanpur in 2023<br>
 
 <!---
 agrimsaharia/agrimsaharia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
